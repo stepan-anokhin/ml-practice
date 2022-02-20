@@ -1,0 +1,31 @@
+name: ml-practice
+channels:
+  - rapidsai
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - rapids=21.12
+  - cudatoolkit=11.5
+  - dask-sql
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - tensorflow-gpu
+  - tqdm
+  - jupyter
+  - jupyterlab
+  - pip
+  - pip:
+      - image
+      - imageio
+      - moviepy
+      - opencv-contrib-python
+      - pillow
+      - scenedetect
+      - pyyaml
+      - annoy
+      - torch
