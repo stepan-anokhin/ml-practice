@@ -18,6 +18,7 @@ dependencies:
   - tqdm
   - jupyter
   - jupyterlab
+  - umap-learn
   - pip
   - pip:
       - image
