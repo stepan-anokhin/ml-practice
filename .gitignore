@@ -8,3 +8,4 @@
 **/.env/
 .kaggle
 catboost_info
+.virtual_documents
