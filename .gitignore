@@ -7,4 +7,4 @@
 *.csv
 **/.env/
 .kaggle
-
+catboost_info

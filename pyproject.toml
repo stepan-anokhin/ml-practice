@@ -26,6 +26,13 @@ dask-sql = "^2024.5.0"
 scipy = "^1.14.1"
 jupyterlab = "^4.2.5"
 seaborn = "^0.13.2"
+catboost = "^1.2.8"
+tabm = "^0.0.1"
+rtdl-num-embeddings = "^0.0.12"
+black = "^25.1.0"
+isort = "^6.0.1"
+jupyterlab-lsp = "^5.2.0"
+jedi-language-server = "^0.45.1"
 
 
 [build-system]
